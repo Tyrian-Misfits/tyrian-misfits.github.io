@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tyrian Misfits Event Calendar on Tyrian Misfits</title>
+    <link>https://tyrian-misfits.github.io/calendar/</link>
+    <description>Recent content in Tyrian Misfits Event Calendar on Tyrian Misfits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tyrian-misfits.github.io/calendar/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
