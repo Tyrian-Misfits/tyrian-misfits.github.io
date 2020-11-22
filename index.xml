@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Tyrian Misfits</title>
-    <link>/</link>
+    <link>https://tyrian-misfits.github.io/</link>
     <description>Recent content in About Us on Tyrian Misfits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2020 10:24:00 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 10:24:00 -0600</lastBuildDate><atom:link href="https://tyrian-misfits.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commander Calls</title>
-      <link>/wvw/calls/</link>
+      <link>https://tyrian-misfits.github.io/wvw/calls/</link>
       <pubDate>Sat, 31 Oct 2020 10:24:00 -0600</pubDate>
       
-      <guid>/wvw/calls/</guid>
+      <guid>https://tyrian-misfits.github.io/wvw/calls/</guid>
       <description>You may hear the commander call out various words and phrases at certain points. Here&amp;rsquo;s what they mean. Don&amp;rsquo;t ever hesitate to ask, either in the chat or in Discord, if you have any questions or would like to see new terms added.
  blast This is usually called right after stealth. It means to use a blast finisher skill inside of a smoke field to create area stealth. See stealth for details.</description>
     </item>
     
     <item>
       <title>Etiquette</title>
-      <link>/wvw/etiquette/</link>
+      <link>https://tyrian-misfits.github.io/wvw/etiquette/</link>
       <pubDate>Sat, 31 Oct 2020 09:35:00 -0600</pubDate>
       
-      <guid>/wvw/etiquette/</guid>
+      <guid>https://tyrian-misfits.github.io/wvw/etiquette/</guid>
       <description>Running with a squad is like a team sport. To be successful, everyone should understand the fundamentals and adhere to certain basic &amp;ldquo;rules.&amp;rdquo; These basic rules of etiquette apply to any squad you may find yourself in.
   Stay on tag. We cannot stress this enough. If you can&amp;rsquo;t see the tag, you are probably in the wrong place.
   Trust your commander. Even if the lord is at 5%, if the tag says to follow, do it.</description>
@@ -30,20 +30,20 @@
     
     <item>
       <title>Builds</title>
-      <link>/wvw/builds/</link>
+      <link>https://tyrian-misfits.github.io/wvw/builds/</link>
       <pubDate>Sat, 31 Oct 2020 08:23:18 -0600</pubDate>
       
-      <guid>/wvw/builds/</guid>
+      <guid>https://tyrian-misfits.github.io/wvw/builds/</guid>
       <description>TM does not require specific builds. Play classes you enjoy. That said, there are ideal builds for most classes that fill common roles WvW squads need. If you wish to start exploring those, the best place to start is an up-to-date build website. We recommend GW2Mists. In the Discord there are specific channels dedicated for discussions and questions around specific classes, and occasionally we hold class-specific training sessions.
 Another site you will hear mentioned a lot is MetaBattle.</description>
     </item>
     
     <item>
       <title>Reorganization</title>
-      <link>/announcements/2020/10/27/reorg/</link>
+      <link>https://tyrian-misfits.github.io/announcements/2020/10/27/reorg/</link>
       <pubDate>Tue, 27 Oct 2020 08:20:00 -0600</pubDate>
       
-      <guid>/announcements/2020/10/27/reorg/</guid>
+      <guid>https://tyrian-misfits.github.io/announcements/2020/10/27/reorg/</guid>
       <description>We are going through a reorganization. The goals are as follows:
  Simplify our structure Communicate that structure consistently to all members Create and maintain a space for new members to get this information later (this website) Most importantly, distribute the leadership load among more people to ensure our continued sustainability  Please review the website closely, particularly the Guild Structure section, and let us know in Discord if you have any questions or concerns.</description>
     </item>
