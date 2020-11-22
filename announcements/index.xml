@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Tyrian Misfits</title>
+    <link>tyrian-misfits.github.io/announcements/</link>
+    <description>Recent content in Announcements on Tyrian Misfits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Oct 2020 08:20:00 -0600</lastBuildDate><atom:link href="tyrian-misfits.github.io/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reorganization</title>
+      <link>tyrian-misfits.github.io/announcements/2020/10/27/reorg/</link>
+      <pubDate>Tue, 27 Oct 2020 08:20:00 -0600</pubDate>
+      
+      <guid>tyrian-misfits.github.io/announcements/2020/10/27/reorg/</guid>
+      <description>We are going through a reorganization. The goals are as follows:
+ Simplify our structure Communicate that structure consistently to all members Create and maintain a space for new members to get this information later (this website) Most importantly, distribute the leadership load among more people to ensure our continued sustainability  Please review the website closely, particularly the Guild Structure section, and let us know in Discord if you have any questions or concerns.</description>
+    </item>
+    
+  </channel>
+</rss>
