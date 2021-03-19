@@ -5,88 +5,86 @@
     <link>https://tyrian-misfits.github.io/</link>
     <description>Recent content in About Us on Tyrian Misfits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 15:00:00 -0600</lastBuildDate><atom:link href="https://tyrian-misfits.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tyrian-misfits.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tempest</title>
-      <link>https://tyrian-misfits.github.io/wvw/tempest/</link>
-      <pubDate>Thu, 18 Mar 2021 15:00:00 -0600</pubDate>
+      <title>Game Settings</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tyrian-misfits.github.io/wvw/tempest/</guid>
-      <description>GW2Mists lists two elementalist builds: a support and a DPS.
-Support Tempest Rotation The tempest is very rotation-focused. There is certainly some tactical thinking required, but less than with other classes. Your job is to rotate through your skills as fast as you can, applying and transmuting as many auras as you can. The precise order will depend on what weapons you&amp;rsquo;re using.
-With focus, you generally start in air to do as much CC as you can and then switch to fire to blast and reapply the fire aura (Focus 5).</description>
-    </item>
-    
-    <item>
-      <title>Guardian</title>
-      <link>https://tyrian-misfits.github.io/wvw/guardian/</link>
-      <pubDate>Wed, 17 Mar 2021 20:00:00 -0600</pubDate>
-      
-      <guid>https://tyrian-misfits.github.io/wvw/guardian/</guid>
-      <description>GW2Mists lists multiple guardian builds. The most common, and the one we need for every single party in the zerg, is the Healbrand. The others can be slotted in to the flex spots, but they cannot replace a proper Healbrand.
-Healbrand The core GW2Mists Healbrand build is perfectly serviceable, but there are minor variants.
-Frontline Aggressive (Commander) This is the build our commander tends to run. You&amp;rsquo;ll note the extra offensive mantras and the use of the axe, which gives a helpful pull when running down fleeing squirrels.</description>
-    </item>
-    
-    <item>
-      <title>Settings</title>
-      <link>https://tyrian-misfits.github.io/wvw/settings/</link>
-      <pubDate>Wed, 17 Mar 2021 20:00:00 -0600</pubDate>
-      
-      <guid>https://tyrian-misfits.github.io/wvw/settings/</guid>
-      <description>For maximum performance, we encourage you to read the following articles:
+      <guid>https://tyrian-misfits.github.io/docs/wvw/settings/</guid>
+      <description>Game Settings#For maximum performance, we encourage you to read the following articles:
  WvW Beginners Settings Guide General Guide For Supporting In WvW Guild Wars 2: Increase/Boost Your Fps and Overall Performance -DirectX 12-Comprehensive Guide 2021  </description>
     </item>
     
     <item>
       <title>The Basics</title>
-      <link>https://tyrian-misfits.github.io/wvw/basics/</link>
-      <pubDate>Wed, 17 Mar 2021 19:00:00 -0600</pubDate>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tyrian-misfits.github.io/wvw/basics/</guid>
-      <description>The core party composition is a support firebrand (primarily for stability), a scrapper (for healing), and a scourge (for condi damage, shields, and boon rips). The remaining two slots is where we can get creative.
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/basics/</guid>
+      <description>The Basics#The core party composition is a support firebrand (primarily for stability), a scrapper (for healing), and a scourge (for condi damage, shields, and boon rips). The remaining two slots is where we can get creative.
 At its most simplistic, builds are described in terms of role (DPS vs. support) and position (frontline vs. backline).
-Role In an ideal comp, nobody is a one-trick pony. But it&amp;rsquo;s important to know what your primary role is.</description>
-    </item>
-    
-    <item>
-      <title>Commander Calls</title>
-      <link>https://tyrian-misfits.github.io/wvw/calls/</link>
-      <pubDate>Wed, 17 Mar 2021 18:00:00 -0600</pubDate>
-      
-      <guid>https://tyrian-misfits.github.io/wvw/calls/</guid>
-      <description>You may hear the commander call out various words and phrases at certain points. Here&amp;rsquo;s what they mean. Don&amp;rsquo;t ever hesitate to ask, either in the chat or in Discord, if you have any questions or would like to see new terms added.
- blast This is usually called right after stealth. It means to use a blast finisher skill inside of a smoke field to create area stealth. See stealth for details.</description>
-    </item>
-    
-    <item>
-      <title>Equipment</title>
-      <link>https://tyrian-misfits.github.io/wvw/equipment/</link>
-      <pubDate>Wed, 17 Mar 2021 17:41:00 -0600</pubDate>
-      
-      <guid>https://tyrian-misfits.github.io/wvw/equipment/</guid>
-      <description>Exotic equipment is sufficient for World vs. World. The stat difference between exotic and ascended gear is around 10% – rarely enough to determine a fight. And by playing WvW you will naturally earn Warlord&amp;rsquo;s Armor Boxes, which give you stat-selectable exotic armour. For a discussion of which stats you want on your equipment, please see the Builds article.
-If you want to start building an ascended equipment set, start with the trinkets, which are cheaper to get.</description>
+Role#In an ideal comp, nobody is a one-trick pony. But it&amp;rsquo;s important to know what your primary role is.</description>
     </item>
     
     <item>
       <title>Etiquette</title>
-      <link>https://tyrian-misfits.github.io/wvw/etiquette/</link>
-      <pubDate>Sat, 31 Oct 2020 09:35:00 -0600</pubDate>
+      <link>https://tyrian-misfits.github.io/docs/wvw/etiquette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tyrian-misfits.github.io/wvw/etiquette/</guid>
-      <description>Running with a squad is like a team sport. To be successful, everyone should understand the fundamentals and adhere to certain basic &amp;ldquo;rules.&amp;rdquo; These basic rules of etiquette apply to any squad you may find yourself in.
+      <guid>https://tyrian-misfits.github.io/docs/wvw/etiquette/</guid>
+      <description>Etiquette#Running with a squad is like a team sport. To be successful, everyone should understand the fundamentals and adhere to certain basic &amp;ldquo;rules.&amp;rdquo; These basic rules of etiquette apply to any squad you may find yourself in.
   Stay on tag. We cannot stress this enough. If you can&amp;rsquo;t see the tag, you are probably in the wrong place.
   Trust your commander. Even if the lord is at 5%, if the tag says to follow, do it.</description>
     </item>
     
     <item>
+      <title>Guardian</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</guid>
+      <description>Guardian#GW2Mists lists multiple guardian builds. The most common, and the one we need for every single party in the zerg, is the Healbrand. The others can be slotted in to the flex spots, but they cannot replace a proper Healbrand.
+Healbrand#The core GW2Mists Healbrand build is perfectly serviceable, but there are minor variants.
+Frontline Aggressive (Commander)#This is the build our commander tends to run.</description>
+    </item>
+    
+    <item>
+      <title>Commander Calls</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/calls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/calls/</guid>
+      <description>Commander Calls#You may hear the commander call out various words and phrases at certain points. Here&amp;rsquo;s what they mean. Don&amp;rsquo;t ever hesitate to ask, either in the chat or in Discord, if you have any questions or would like to see new terms added.
+ blast This is usually called right after stealth. It means to use a blast finisher skill inside of a smoke field to create area stealth.</description>
+    </item>
+    
+    <item>
+      <title>Tempest</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/tempest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/tempest/</guid>
+      <description>Tempest#GW2Mists lists two elementalist builds: a support and a DPS.
+Support Tempest (Frontline)#Rotation#The tempest is very rotation-focused. There is certainly some tactical thinking required, but less than with other classes. Your job is to rotate through your skills as fast as you can, applying and transmuting as many auras as you can. The precise order will depend on what weapons you&amp;rsquo;re using.</description>
+    </item>
+    
+    <item>
+      <title>Equipment</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/equip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/equip/</guid>
+      <description>Equipment#Exotic equipment is sufficient for World vs. World. The stat difference between exotic and ascended gear is around 10% – rarely enough to determine a fight. And by playing WvW you will naturally earn Warlord&amp;rsquo;s Armor Boxes, which give you stat-selectable exotic armour. For a discussion of which stats you want on your equipment, please see the Builds article.
+If you want to start building an ascended equipment set, start with the trinkets, which are cheaper to get.</description>
+    </item>
+    
+    <item>
       <title>Reorganization</title>
-      <link>https://tyrian-misfits.github.io/announcements/2020/10/27/reorg/</link>
+      <link>https://tyrian-misfits.github.io/posts/reorg/</link>
       <pubDate>Tue, 27 Oct 2020 08:20:00 -0600</pubDate>
       
-      <guid>https://tyrian-misfits.github.io/announcements/2020/10/27/reorg/</guid>
+      <guid>https://tyrian-misfits.github.io/posts/reorg/</guid>
       <description>We are going through a reorganization. The goals are as follows:
  Simplify our structure Communicate that structure consistently to all members Create and maintain a space for new members to get this information later (this website) Most importantly, distribute the leadership load among more people to ensure our continued sustainability  Please review the website closely, particularly the Guild Structure section, and let us know in Discord if you have any questions or concerns.</description>
     </item>

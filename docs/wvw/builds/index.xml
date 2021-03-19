@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Builds on Tyrian Misfits</title>
+    <link>https://tyrian-misfits.github.io/docs/wvw/builds/</link>
+    <description>Recent content in Builds on Tyrian Misfits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tyrian-misfits.github.io/docs/wvw/builds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Basics</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/basics/</guid>
+      <description>The Basics#The core party composition is a support firebrand (primarily for stability), a scrapper (for healing), and a scourge (for condi damage, shields, and boon rips). The remaining two slots is where we can get creative.
+At its most simplistic, builds are described in terms of role (DPS vs. support) and position (frontline vs. backline).
+Role#In an ideal comp, nobody is a one-trick pony. But it&amp;rsquo;s important to know what your primary role is.</description>
+    </item>
+    
+    <item>
+      <title>Guardian</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</guid>
+      <description>Guardian#GW2Mists lists multiple guardian builds. The most common, and the one we need for every single party in the zerg, is the Healbrand. The others can be slotted in to the flex spots, but they cannot replace a proper Healbrand.
+Healbrand#The core GW2Mists Healbrand build is perfectly serviceable, but there are minor variants.
+Frontline Aggressive (Commander)#This is the build our commander tends to run.</description>
+    </item>
+    
+    <item>
+      <title>Tempest</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/tempest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/tempest/</guid>
+      <description>Tempest#GW2Mists lists two elementalist builds: a support and a DPS.
+Support Tempest (Frontline)#Rotation#The tempest is very rotation-focused. There is certainly some tactical thinking required, but less than with other classes. Your job is to rotate through your skills as fast as you can, applying and transmuting as many auras as you can. The precise order will depend on what weapons you&amp;rsquo;re using.</description>
+    </item>
+    
+  </channel>
+</rss>
