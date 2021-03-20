@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PvP 101 on Tyrian Misfits</title>
+    <link>https://tyrian-misfits.github.io/docs/pvp/</link>
+    <description>Recent content in PvP 101 on Tyrian Misfits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tyrian-misfits.github.io/docs/pvp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PvP Screen</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/screen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/screen/</guid>
+      <description>PvP Screen#The PvP screen is opened by clicking the crossed sword button in the menu bar (see above image). The rest of this section explains elements of each of the different tabs.
+Home#1: PvP Lobby#You can start PvP games from anywhere in Tyria, but there is a dedicated area called the Heart of the Mists. Like WvW, there&amp;rsquo;s a bank, Black Lion trader, and various vendors, both general and PvP-specific.</description>
+    </item>
+    
+    <item>
+      <title>Game Modes</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/modes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/modes/</guid>
+      <description>Game Modes#Conquest#Conquest is the primary PvP mode. There are nine different maps with three control nodes each. Each also has a unique mechanic – some of which earn you points directly, others of which grant various bonuses.
+ Two teams of five battle it out. The winner is either the first team to 500 points or the team with the most points after 15 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Builds</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/builds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/builds/</guid>
+      <description>Builds#Equipment#PvP is the easiest game mode to get started with because you don&amp;rsquo;t need any special gear! In PvP, all your stats are normalized. Everyone is on a level playing field. All you need are starter armour and weapons. You don&amp;rsquo;t even need any trinkets. None of the stats matter.
+1: Toggle#Clicking this icon here is how you switch between your PvE and PvP equipment sets.</description>
+    </item>
+    
+    <item>
+      <title>Further Resources</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/resources/</guid>
+      <description>Further Resources# GodsOfPvP is not only a good source for common builds, it also has an extensive guides section that discusses game settings, individual map mechanics, and strategies. Vallun is a prolific YouTuber with many helpful thoughts on PvP mechanics and builds. He also talks a fair bit about WvW.  </description>
+    </item>
+    
+  </channel>
+</rss>

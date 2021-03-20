@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>PvP Screen</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/screen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/screen/</guid>
+      <description>PvP Screen#The PvP screen is opened by clicking the crossed sword button in the menu bar (see above image). The rest of this section explains elements of each of the different tabs.
+Home#1: PvP Lobby#You can start PvP games from anywhere in Tyria, but there is a dedicated area called the Heart of the Mists. Like WvW, there&amp;rsquo;s a bank, Black Lion trader, and various vendors, both general and PvP-specific.</description>
+    </item>
+    
+    <item>
       <title>The Basics</title>
       <link>https://tyrian-misfits.github.io/docs/wvw/builds/basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,6 +49,16 @@ Role#In an ideal comp, nobody is a one-trick pony. But it&amp;rsquo;s importa
     </item>
     
     <item>
+      <title>Game Modes</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/modes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/modes/</guid>
+      <description>Game Modes#Conquest#Conquest is the primary PvP mode. There are nine different maps with three control nodes each. Each also has a unique mechanic – some of which earn you points directly, others of which grant various bonuses.
+ Two teams of five battle it out. The winner is either the first team to 500 points or the team with the most points after 15 minutes.</description>
+    </item>
+    
+    <item>
       <title>Guardian</title>
       <link>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -46,6 +66,16 @@ Role#In an ideal comp, nobody is a one-trick pony. But it&amp;rsquo;s importa
       <guid>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</guid>
       <description>Guardian#GW2Mists lists multiple guardian builds. The most common, and the one we need for every single party in the zerg, is the Healbrand. The others can be slotted in to the flex spots, but they cannot replace a proper Healbrand.
 Notes on Firebrand Tomes#Anet did what they could to make the tomes quite straightforward to use. The Firebrand page on the GW2 wiki makes it easy to see what they all do.</description>
+    </item>
+    
+    <item>
+      <title>Builds</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/builds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/builds/</guid>
+      <description>Builds#Equipment#PvP is the easiest game mode to get started with because you don&amp;rsquo;t need any special gear! In PvP, all your stats are normalized. Everyone is on a level playing field. All you need are starter armour and weapons. You don&amp;rsquo;t even need any trinkets. None of the stats matter.
+1: Toggle#Clicking this icon here is how you switch between your PvE and PvP equipment sets.</description>
     </item>
     
     <item>
@@ -76,6 +106,15 @@ Support Tempest (Frontline)#Rotation#The tempest is very rotation-focused.
       <guid>https://tyrian-misfits.github.io/docs/wvw/equip/</guid>
       <description>Equipment#Exotic equipment is sufficient for World vs. World. The stat difference between exotic and ascended gear is around 10% – rarely enough to determine a fight. And by playing WvW you will naturally earn Warlord&amp;rsquo;s Armor Boxes, which give you stat-selectable exotic armour. For a discussion of which stats you want on your equipment, please see the Builds article.
 If you want to start building an ascended equipment set, start with the trinkets, which are cheaper to get.</description>
+    </item>
+    
+    <item>
+      <title>Further Resources</title>
+      <link>https://tyrian-misfits.github.io/docs/pvp/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/pvp/resources/</guid>
+      <description>Further Resources# GodsOfPvP is not only a good source for common builds, it also has an extensive guides section that discusses game settings, individual map mechanics, and strategies. Vallun is a prolific YouTuber with many helpful thoughts on PvP mechanics and builds. He also talks a fair bit about WvW.  </description>
     </item>
     
     <item>
