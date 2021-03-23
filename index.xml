@@ -38,6 +38,16 @@ Role#In an ideal comp, nobody is a one-trick pony. But it&amp;rsquo;s importa
     </item>
     
     <item>
+      <title>Elementalist</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/elementalist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/elementalist/</guid>
+      <description>Elementalist#GW2Mists lists two elementalist builds: a support and a DPS.
+Support Tempest (Frontline)#Rotation#The tempest is very rotation-focused. There is certainly some tactical thinking required, but less than with other classes. Your job is to rotate through your skills as fast as you can, applying and transmuting as many auras as you can. The precise order will depend on what weapons you&amp;rsquo;re using.</description>
+    </item>
+    
+    <item>
       <title>Etiquette</title>
       <link>https://tyrian-misfits.github.io/docs/wvw/etiquette/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,16 +66,6 @@ Role#In an ideal comp, nobody is a one-trick pony. But it&amp;rsquo;s importa
       <guid>https://tyrian-misfits.github.io/docs/pvp/modes/</guid>
       <description>Game Modes#Conquest#Conquest is the primary PvP mode. There are nine different maps with three control nodes each. Each also has a unique mechanic – some of which earn you points directly, others of which grant various bonuses.
  Two teams of five battle it out. The winner is either the first team to 500 points or the team with the most points after 15 minutes.</description>
-    </item>
-    
-    <item>
-      <title>Guardian</title>
-      <link>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</guid>
-      <description>Guardian#GW2Mists lists multiple guardian builds. The most common, and the one we need for every single party in the zerg, is the Healbrand. The others can be slotted in to the flex spots, but they cannot replace a proper Healbrand.
-Notes on Firebrand Tomes#Anet did what they could to make the tomes quite straightforward to use. The Firebrand page on the GW2 wiki makes it easy to see what they all do.</description>
     </item>
     
     <item>
@@ -89,13 +89,16 @@ Notes on Firebrand Tomes#Anet did what they could to make the tomes quite str
     </item>
     
     <item>
-      <title>Tempest</title>
-      <link>https://tyrian-misfits.github.io/docs/wvw/builds/tempest/</link>
+      <title>Engineer</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/engineer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/tempest/</guid>
-      <description>Tempest#GW2Mists lists two elementalist builds: a support and a DPS.
-Support Tempest (Frontline)#Rotation#The tempest is very rotation-focused. There is certainly some tactical thinking required, but less than with other classes. Your job is to rotate through your skills as fast as you can, applying and transmuting as many auras as you can. The precise order will depend on what weapons you&amp;rsquo;re using.</description>
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/engineer/</guid>
+      <description>Engineer#GW2Mists lists two workable engineer builds: heal scrapper and power scrapper.
+Heal Scrapper (Frontline)#Frontline Med-Kit Scrapper
+You serve four important functions: stealth, mitigate damage, cleanse, and heal.
+Stealth#When commander calls for stealth, use your elite skill Sneak Gyro, which drops a smoke field. Then use your Medkit 5 skill Infusion Bomb, which is a blast finisher.
+Pro tip: Double tap Medkit 5 first, then click Sneak Gyro, since Infusion Bomb has a small delay to blast.</description>
     </item>
     
     <item>
@@ -115,6 +118,39 @@ If you want to start building an ascended equipment set, start with the trinkets
       
       <guid>https://tyrian-misfits.github.io/docs/pvp/resources/</guid>
       <description>Further Resources# GodsOfPvP is not only a good source for common builds, it also has an extensive guides section that discusses game settings, individual map mechanics, and strategies. Vallun is a prolific YouTuber with many helpful thoughts on PvP mechanics and builds. He also talks a fair bit about WvW.  </description>
+    </item>
+    
+    <item>
+      <title>Guardian</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/guardian/</guid>
+      <description>Guardian#GW2Mists lists multiple guardian builds. The most common, and the one we need for every single party in the zerg, is the Healbrand. The others can be slotted in to the flex spots, but they cannot replace a proper Healbrand.
+Notes on Firebrand Tomes#Anet did what they could to make the tomes quite straightforward to use. The Firebrand page on the GW2 wiki makes it easy to see what they all do.</description>
+    </item>
+    
+    <item>
+      <title>Necromancer</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/necromancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/necromancer/</guid>
+      <description>Necromancer#GW2Mists lists two necromancer builds: a scourge and a reaper. But below are two other builds to consider.
+Condi Scourge (Backline)#Kora&amp;rsquo;s Condi Scourge
+Your main goal is to spam conditions on the enemies with your AoE attacks with staff and sand shades. Use your wells/serpent siphon along with F5 (Shroud) when tag asks for bombs. Keep your staff marks on walls when we’re sieging. Use scepter 3 (devouring darkness) off cooldown to remove boons from enemies.</description>
+    </item>
+    
+    <item>
+      <title>Revenant</title>
+      <link>https://tyrian-misfits.github.io/docs/wvw/builds/revenant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tyrian-misfits.github.io/docs/wvw/builds/revenant/</guid>
+      <description>Revenant#GW2Mists only lists a single zerg build for revenant: the power herald.
+Power Herald (Backline)#Power Herald
+Build variations: If and only if you are consistently top three in DPS do I recommend taking Notoriety (devastation tree) over Assassin&amp;rsquo;s Presence. Brutality and Swift Termination are also interchangeable, but I recommend Brutality if you&amp;rsquo;re new to Herald.
+The GW2Mists build takes Herald: Draconic Echo, but the recommended trait is Herald: Forceful Persistence.</description>
     </item>
     
     <item>
